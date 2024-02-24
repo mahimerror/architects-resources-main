@@ -255,6 +255,19 @@ ul{
     border-radius: 8px;
 }
 
+.card-4:hover{
+    background: #FF900E;
+}
+
+.card-4:hover h2{
+    color: #ffffff;
+}
+
+.card-4:hover p{
+    color: #ffffff;
+}
+
+
 .container-4{
     display: flex;
     text-align: center;
